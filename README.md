@@ -22,11 +22,13 @@ O aplicativo **Up! PDV** foi desenvolvido com o intuito de ajudar pequenos estab
 - [Sofia Sales Lima](https://github.com/sofiasaless) - **Desenvolvedora Full-Stack**
 <!-- - [UpBusiness](https://github.com/sofiasaless) - **Empresa** -->
 
-## Usado por
+<!-- ## Usado por
 
 Esse projeto é usado pelas seguintes empresas:
 
 - [Churrascaria Nobres Grill](https://www.instagram.com/nobresgrill/)
+
+-->
 
 ## FAQ
 
